@@ -1,7 +1,7 @@
 # WebArc Organization
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1edabf30-f7d2-476f-b3c2-cdfd0df1e392" alt="Untitled design (5)">
+  <img src="https://avatars.githubusercontent.com/u/193399696?s=200&v=4" alt="Untitled design (5)">
 </div>
 
 Welcome to **WebArc**, a premier web design agency dedicated to crafting exceptional digital experiences! We specialize in creating stunning, user-centric websites and applications tailored to your needs.
