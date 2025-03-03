@@ -46,7 +46,7 @@ Discover what we can do for you:
 ## Get In Touch
 Ready to elevate your online presence? Contact us today:
 - **Website:** [webarc.pl](#)
-- **Email:** [contact@webarc.pl](mailto:contact@webarc.pl)
+- **Email:** [kontakt@webarc.pl](mailto:kontakt@webarc.pl)
 
 ---
 
